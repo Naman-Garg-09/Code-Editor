@@ -1,8 +1,5 @@
-# React + Vite
+# CODE EDITOR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a code compiler where we can can create basic front end applications using HTML,CSS,JAVASCRIPT and view live changes in output window without switching between different tabs.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
